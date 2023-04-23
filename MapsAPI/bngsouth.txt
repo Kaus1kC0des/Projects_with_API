@@ -1,0 +1,103 @@
+Agara,42.04093,43.81955
+Ajjanahalli,12.05906,77.82374
+Alakabelalu,38.89037,-77.03196
+Badamanavarthekaval,38.89037,-77.03196
+Bettadasanapura,12.84074,77.6343
+Bheemanakuppe,14.32091,77.21458
+Bheemanakuppe Ramasagara,13.12579,78.32789
+Byalalu,15.60847,75.18409
+Bychaguppe,16.11391,75.1984
+Chalaghatta,12.94532,77.65016
+Channenahalli,13.11312,76.46422
+Chikkanahalli,13.08667,78.06096
+Chikkellur,12.89189,77.42159
+Chikkellur Ramapura,24.50787,81.11504
+Chikkellur Venkatapura,13.2784,77.8227
+Chinnakurchi,12.82545,77.46161
+Cholanaikanahalli,38.89037,-77.03196
+Chunchanakuppe,12.90843,77.38699
+Devagere,12.8577,77.46467
+Devamachahalli Narayanapura,12.28516,77.0725
+Devamachohalli,12.96519,77.3817
+Doddabele,12.88516,77.47782
+Doddamaranahalli,13.1193,77.68063
+Doddanagamangala,12.86078,77.67719
+Dodderi,12.94662,76.51415
+Donnenahalli,12.237,78.18894
+Ganapathihalli,13.43938,76.09621
+Gangappanahalli,12.95808,77.35183
+Gangasandra,13.3236,77.08073
+Gangenahalli,13.02237,77.58512
+Ganukal,12.80258,77.38304
+Gonipura,12.83182,77.45437
+Gudimavu,38.89037,-77.03196
+Gulakamale,12.79762,77.52362
+Hampapura,12.74849,76.04252
+Hommadevanahalli,12.84471,77.59973
+Honniganahatti,12.97815,77.41953
+Huluvenahalli,12.88743,77.18582
+Jogerahalli,12.98381,77.37606
+K Chudahalli,12.67999,77.61285
+Kaggalipura,12.22499,77.10235
+Kambipura,13.05303,77.93889
+Kaniminike,38.89037,-77.03196
+Karigiripura,13.15165,77.19024
+Kempagondanahalli,12.95063,77.34126
+Kenchanapura,13.23942,77.35668
+Kengeri Gollahalli,12.69283,77.68373
+Kethohalli,11.92274,76.79467
+Kethohalli Narasimhapura,20.49544,85.10481
+Kethohalli Ramapura,32.27113,75.66011
+Kolur,15.99532,80.21045
+Kolur Gururayanapura,16.26737,76.1505
+Kolur Nanjundapura,12.98867,78.17732
+Kommaghatta,12.9295,77.46554
+Kommaghatta Krishnasagara,24.19382,92.00805
+Krishnarajapura,13.17518,78.24957
+Kumbalagodu Gollahalli,12.84246,77.45293
+Kurubarahalli,13.2683,78.2673
+Kurubarapalya,13.00216,77.06989
+M Krishnasagara,13.34529,76.65041
+Madapatna,13.17426,76.72126
+Maligondanahalli,13.33386,76.6252
+Mallasandra,13.21536,78.16089
+Maragondanahalli,13.03624,77.6926
+Marenahalli,13.16438,77.73752
+Muddaiahnapalya,12.96604,77.49081
+Mylasandra,12.91507,77.49708
+Naganahalli,12.90395,76.20378
+Naganayakanahalli,16.86614,77.03815
+Nelaguli,12.77405,77.49196
+Nettigere,47.50876,-122.834
+O B Chudahalli,12.67999,77.61285
+Peddanapalya,12.94392,77.40567
+Punagumaranahalli,12.95466,77.70752
+Puradapalya,13.1605,76.72797
+Rachanamadu,38.89037,-77.03196
+Ramohalli,12.90524,77.42017
+Ravugodlu,12.74818,77.50178
+Seegehalli,13.01293,77.72082
+Seshagiripura,38.89037,-77.03196
+Somanahalli,12.13502,78.04287
+Sulikere,12.93889,77.44811
+Sulivara,12.90273,77.36385
+Sulivara Ramapura,25.09562,73.01127
+Sunkadakatte,12.99007,77.50274
+Tavakadahalli,13.6913,77.24078
+Tavarekere,12.92238,77.61027
+Thagachaguppe,12.87081,77.45045
+Tharalu,30.0705,79.50102
+Thattaguppe,38.89037,-77.03196
+Thippagondanahalli,13.77811,77.20132
+Thippur,9.87574,78.02487
+Uttarahalli Manavarthekaval,12.90668,77.5446
+Uttari,26.76065,80.08796
+Vadahalli,12.87955,77.34191
+Vaddarapalya,12.89131,77.79813
+Varthur,12.94349,77.74702
+Varthur Narasimhapura,16.0174,81.02981
+Vasanthanahalli,38.89037,-77.03196
+Venkatapura,13.27881,77.8088
+Vittasandra,13.21892,77.88278
+Yalachaguppe Ramapura,24.50787,81.11504
+Yelachaguppe,38.89037,-77.03196

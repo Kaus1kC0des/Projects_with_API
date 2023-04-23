@@ -1,0 +1,227 @@
+A Medihalli,14.23789,76.39296
+Adigarakallahalli,12.83148,77.80012
+Adigondanahalli,12.81463,77.75227
+Adur,41.12198,48.30284
+Agasa Thimmanahalli,13.63804,77.68927
+Ali Bommasandra,12.81877,77.74035
+Amani Bidarakere,13.9036,77.24517
+Amani Doddakere,38.5182,25.94539
+Andapura,11.06278,78.2255
+Anekal,12.71021,77.69733
+Aravantigepura,12.73538,77.71456
+Arehalli,12.93419,77.83073
+Arenur,51.38148,111.41837
+Avadadenahalli,12.74616,77.71143
+Avalahalli,13.45101,77.81127
+B Hosahalli,12.88125,77.53321
+Bagganadoddi,12.67725,77.01085
+Balagaranahalli,13.02602,77.36808
+Ballur,18.50543,77.54038
+Banahalli,13.33609,77.99052
+Banahalli,13.33609,77.99052
+Bandapura,12.76805,77.7284
+Bande Nalla Sandra,12.79301,77.65401
+Bannerughatta,12.80132,77.57898
+Bannerughatta Kaval,12.94075,77.60266
+Begihalli,12.7915,77.60417
+Bendiganahalli,12.81373,77.74121
+Bestammanahalli,12.73032,77.7295
+Bhaktipura,12.75219,77.7626
+Bhoothanahalli,13.68375,77.11271
+Bhovi Palya (Shanthi Pur),12.89372,77.63692
+Bidaragere,12.71423,77.72355
+Bidaraguppe,12.80478,77.78752
+Bidarakadahalli,38.89037,-77.03196
+Bikkanahalli,12.41947,78.10526
+Bilchikkanahalli,13.50244,77.52769
+Billapura,12.83719,77.78844
+Bilwaradahalli,12.82761,77.56571
+Bommandahalli,12.75312,77.63905
+Bujangadasanakere,38.89037,-77.03196
+Bukkasagara,13.1724,76.94691
+Buragunte,45.12107,11.80132
+Byagadadenahalli,12.75238,77.70401
+Byalahalli,13.29574,78.02213
+Byrappanahalli,13.07572,77.72436
+Chambenahalli,13.7359,77.08093
+Chandapura,12.79401,77.70015
+Chandrapura Chatrakane,23.75379,86.11836
+Channena Agrahara,12.70594,77.73847
+Chikka Hagade,12.73676,77.70142
+Chikka Hosahalli,12.67781,76.48933
+Chikkadasarahalli,13.34498,77.88513
+Chikkadunnasandra,12.48364,76.04986
+Chikkanagamangala,12.86002,77.69677
+Chikkanahalli,13.08667,78.06096
+Chikkanahalli,13.08667,78.06096
+Chikkanahatti,13.08667,78.06096
+Chikkanekkundi,38.89037,-77.03196
+Chikkathimmasandra,12.84212,77.74559
+Chikkavaderapura,38.89037,-77.03196
+Chintalmadivala,12.85155,77.71394
+Chokkasandra,13.03812,77.51024
+Choodasandra,38.89037,-77.03196
+Chudenahalli,13.15611,78.01085
+Dasanapura,13.0761,77.43508
+Deshapande Guttahalli,12.91855,77.82355
+Dodda Hagade,12.74154,77.69491
+Doddathimmasandra,12.86616,77.7958
+Dyavasandra,13.02078,77.5682
+Gattahalli,13.26511,78.23079
+Geratiganabele,12.67886,77.73581
+Giddenahalli,13.34794,76.04427
+Giddenahalli,13.34794,76.04427
+Gollahalli,13.35912,78.10263
+Gollahalli,13.35912,78.10263
+Gonighattapura,38.89037,-77.03196
+Gopasandra,12.84694,77.73785
+Gottamaranahalli,13.26838,77.8454
+Gowrenahalli,12.71864,77.68025
+Guddahatti,16.00096,74.85598
+Gudighattanahalli,38.89037,-77.03196
+Gudnahalli,12.68879,77.72584
+Gulimangala,10.68996,77.28154
+Halasahalli Thippasandra,12.93734,77.74859
+Haldenahalli,12.71767,77.70829
+Halehalli,13.15568,75.56693
+Halesampigehalli,13.0802,77.61966
+Handenahalli,12.77782,76.67691
+Haragadde,14.34292,74.76554
+Harapanahalli,14.78957,75.98414
+Harohalli,13.11972,77.58206
+Hasaruvani,38.89037,-77.03196
+Heelalige,12.81747,77.70901
+Heggondahalli,12.90493,77.74704
+Hennagara,12.78815,77.67396
+Hennagara Amanikere,12.79587,77.68166
+Hinnakki,12.77449,77.68269
+Hompalaghatta,12.69282,77.7014
+Honnakalasapura,12.72934,77.68306
+Hosahalli,12.88125,77.53321
+Hulimangala,12.95451,77.90165
+Hullahalli,13.02862,76.5846
+Hullukasavanahalli,12.81604,77.61
+Huskur,13.0603,77.76227
+Iggalur,12.47964,77.13951
+Indlabele,12.79009,77.77838
+Indlawadi,12.72536,77.63935
+Indlawadipura,12.71356,77.64109
+Itchangur,27.72624,85.27035
+Ittangur,12.8808,77.7909
+J Bingipura,12.99118,77.97624
+Janatha Colony,17.68193,83.24063
+Jangal Palya,23.17719,87.9547
+Janthagondanahalli,12.9241,77.78631
+Jigala,-17.93821,122.22868
+Kachanaikanahalli,12.97208,76.13967
+Kadagrahara,12.86249,77.76493
+Kadajakkanahalli,12.73632,77.63622
+Kaggalipura,12.22499,77.10235
+Kalanaikanahalli,14.75713,76.73553
+Kalbalu,38.89037,-77.03196
+Kalkere,13.03401,77.67508
+Kamanahalli,13.01424,77.63676
+Kamblipura,12.7588,77.7447
+Kammasandra,13.2068,77.37992
+Kammasandra Agrahara,12.83138,77.69359
+Kannaikana Agrahara,33.20704,35.29981
+Karpur,26.46537,86.11518
+Kathriguppe,12.93166,77.55271
+Kaval Hosahalli,12.72544,77.70399
+Kempavaderahalli,12.84645,77.28774
+Kittaganahalli,13.31476,78.22933
+Kodlipura,13.14232,78.11922
+Kommasandra,13.59671,77.97347
+Konasandra,12.66521,77.51033
+Koppa,13.53553,75.36592
+Koppa Gate,65.65957,-20.30023
+Kotiganahalli,12.936,75.9637
+Krishnasagara,13.34529,76.65041
+Kugur,12.91037,77.81152
+Kumbaranahalli,12.74564,77.66274
+Kunmadivala,12.75036,77.69789
+Kurubarahatti,13.19253,76.61973
+Kuthaganahalli,12.88778,77.80319
+Kyalasanahalli,13.05315,77.66
+Laxmi Sagara,20.26902,85.85291
+Laxmipura,22.32494,73.13862
+Lingapura,8.3356,81.26272
+M Medihalli,14.23789,76.39296
+Mada Patna,13.17426,76.72126
+Madappanahalli,13.15407,77.5404
+Madivala,13.02336,77.92979
+Mahal Chowdadenahalli,13.46697,78.04634
+Mahanthalingapura,12.76619,77.61843
+Manchanahalli,12.8356,76.06113
+Mantapa,12.80685,77.59809
+Maranaikanahalli,12.72393,77.77862
+Marasur,12.75921,77.7152
+Marasur Agrahara,12.29962,76.65363
+Masthena Halli,38.89037,-77.03196
+Mattanahalli,12.89138,76.00869
+Mayasandra,13.3115,77.66241
+Menasiganahalli,12.66263,77.70135
+Mugalur,12.62744,77.81155
+Muthagatti,12.70159,77.7244
+Muthanallur,12.83189,77.73672
+Muthanallur Amanikere,38.89037,-77.03196
+Muthasandra,12.95184,77.75816
+Naganaikanahalli,13.2284,77.78991
+Nagen Agrahara,12.911,77.6234
+Nallasandra,12.79301,77.65401
+Nanjapura,13.23689,76.042
+Narayanaghatta,12.83621,77.72649
+Nekkundi Dommasandra,12.928,77.77774
+Neralur,12.79277,77.72698
+Neriga,12.91063,77.78109
+Nosenur,12.74677,77.65264
+Nosenur Gollahalli,12.73929,77.65126
+Panditana Agrahara,12.87813,77.82736
+Patnagere Gollahalli,12.69283,77.68373
+Rachamanahalli,12.71892,77.74539
+Ragihalli,12.95393,76.85745
+Rajapura,30.47588,76.58966
+Ramakrishnapura,12.78286,77.69525
+Ramasagara,13.12579,78.32789
+Ramasandra,12.85404,78.26328
+Ramnaikanahalli,38.89037,-77.03196
+Rayasandra,12.88116,77.67715
+S Bingipura,12.99118,77.97624
+S Medihalli,14.23789,76.39296
+Sakalawara,38.89037,-77.03196
+Samanahalli,12.83291,77.74815
+Samandur,12.71318,77.75489
+Seeganaikanahalli,38.89037,-77.03196
+Seethanaikana Halli,38.89037,-77.03196
+Shivanahalli,12.8003,75.8539
+Sidihosakote,12.72838,77.68786
+Singasandra,12.87156,77.63846
+Singena Agrahara,12.83721,77.71626
+Sollepura,12.82808,77.75724
+Solur,12.76327,78.70275
+Sompura,26.06772,75.01701
+Sonnanayakanapura,12.72775,77.65924
+Soppahalli,13.49222,77.77876
+Sriramapura,13.14777,78.22886
+Submangala,12.7488,79.5793
+Sunavara,23.03604,79.62743
+Suragajakkanahalli,12.73904,77.66846
+Telagarahalli,12.69038,77.69188
+Thammanaikanahalli,38.89037,-77.03196
+Thattanahalli,13.21661,76.54301
+Thigala Chowdadenahalli,13.46697,78.04634
+Thimmasandra,12.86616,77.7958
+Thindlu,13.07133,77.566
+Thirumagondanahalli,13.34997,77.53963
+Thirupalya,12.82074,77.66684
+Tyayakana Halli,38.89037,-77.03196
+Vabasandra,12.80814,77.65119
+Vaddara Palya,12.89131,77.79813
+Vaderahalli,13.09669,77.53772
+Vaderamanchanahalli,12.76869,77.6319
+Vanakanahalli,12.6673,77.69493
+Veerasandra,38.89037,-77.03196
+Volagerekallahalli,38.89037,-77.03196
+Yadavanahalli,12.87803,75.98799
+Yamare,27.83084,85.15144
+Yarandahalli,38.89037,-77.03196
