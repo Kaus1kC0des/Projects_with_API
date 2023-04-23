@@ -1,7 +1,7 @@
 from client.weatherclient import *
 
-OWM_APP_ID = '7d0a1792a9aa3c0323da85feff63097b'
-WS_APP_ID = '711c2d2c65a7584e5a8c2dc4c16b3a2b'
+OWM_APP_ID = '#Your API Key'
+WS_APP_ID = '#Your API Key'
 
 owm = OpenWeatherMap(OWM_APP_ID)
 
